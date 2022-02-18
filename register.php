@@ -78,6 +78,7 @@ if (isset($_POST["register"])){
                     <div class="wrap-input100 validate-input" data-validate = "Masukan Nama Anda">
 						<input class="input100" type="text" name="name" placeholder="Nama Lengkap">
 						<span class="focus-input100"></span>
+							<i class="fa fa" aria-hidden="true"></i>
 					</div>
 					
                     <div class="wrap-input100 validate-input" data-validate = "Masukan alamat anda">
