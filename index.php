@@ -89,7 +89,7 @@ if (isset($_POST['login'])) {
 				<form class="login100-form validate-form" action="" method="POST">
 					<span class="login100-form-title">
 						Masuk
-					</span> 
+					</span>
 
 					<div class="wrap-input100 validate-input" data-validate="Username dibutuhkan">
 						<input class="input100" type="text" name="username" placeholder="Username">

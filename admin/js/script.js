@@ -1,4 +1,4 @@
-const txtElemet = ['Universitas Bung Karno', 'UBK         ']
+const txtElemet = ['Universitas Bung Karno         ', 'UBK                  ']
 
 let count = 0;
 let txtIndext = 0;
@@ -20,5 +20,5 @@ let words = '';
         count++;
         txtIndext = 0;
     }
-    setTimeout(ngetik, 100);
+    setTimeout(ngetik, 200);
 })();
